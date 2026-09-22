@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T08:30:32.936124+00:00",
-  "totalJobs": 92,
+  "lastUpdated": "2026-09-22T08:11:37.011098+00:00",
+  "totalJobs": 91,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1625,30 +1625,6 @@
       "postedAt": "2026-06-09T04:24:59-04:00",
       "tags": [
         "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5229345008",
-      "company": "Anthropic",
-      "position": "Staff Software Engineer, Claude Design",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "At Anthropic, we're building AI systems that are safe, beneficial, and transformative. Our mission is to develop AI that benefits humanity, and we believe the most powerful capabilities emerge when we thoughtfully bridge the gap between research breakthroughs and real-world applications. Claude...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008",
-      "postedAt": "2026-05-27T20:20:38-04:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Python",
-        "Rust",
-        "Node.js",
         "AWS",
         "Claude Code",
         "Anthropic"
